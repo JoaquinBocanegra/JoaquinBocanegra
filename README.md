@@ -1,7 +1,7 @@
 
 # Bienvenido - Welcome
 
-Programador de aplicaciones web | Backend
+Pentester Jr | Ciberseguridad | Ethical Hacking | Red Team
 
 # hola, me llamo Joaquin! 👋
 
