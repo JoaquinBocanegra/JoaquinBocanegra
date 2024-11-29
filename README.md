@@ -1,7 +1,7 @@
 
 # Bienvenido - Welcome
 
-Pentester Jr | Ciberseguridad | Ethical Hacking | Red Team
+Pentester Jr | Ciberseguridad | Ethical Hacking | Analista de Ciberseguridad 
 
 # hola, me llamo Joaquin! 👋
 
